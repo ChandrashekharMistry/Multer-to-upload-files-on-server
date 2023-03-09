@@ -40,3 +40,5 @@ app.listen(5000, () => {
 })
 
 //to stop server we can press ctrl+C to stop server and then we can type node .(dot) to run vs code again
+// in Postman url is  http://localhost:5000/ choose post method and past this url then in key field upload a file from ur computer
+// and click on send and then it will reflect in public folder in ur computer also whatever the name u write of file in postman should be same in vs code
